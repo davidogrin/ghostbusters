@@ -492,6 +492,7 @@ header {
   }
   .cast {
     padding-bottom: 50px;
+    padding-left: 30px;
   }
   .news-card {
     flex-basis: 100%;
