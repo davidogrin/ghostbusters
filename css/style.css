@@ -349,6 +349,9 @@ header {
   }
 }
 @media (max-width: 768px) {
+  html, body {
+    overflow-y: hidden;
+  }
   .container {
     max-width: 560px;
   }
@@ -426,8 +429,11 @@ header {
     padding-left: 50px;
   }
   .news {
-    padding-top: 50px;
+    padding-top: 20px;
     padding-bottom: 70px;
+  }
+  .section-news-title {
+    margin-bottom: 0px;
   }
   .header-logo:after {
     display: none;
