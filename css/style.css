@@ -349,7 +349,8 @@ header {
   }
 }
 @media (max-width: 768px) {
-  html, body {
+  html, 
+  body {
     overflow-y: hidden;
   }
   .container {
@@ -433,7 +434,7 @@ header {
     padding-bottom: 70px;
   }
   .section-news-title {
-    margin-bottom: 0px;
+    margin-bottom: 20px;
   }
   .header-logo:after {
     display: none;
