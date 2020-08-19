@@ -498,7 +498,8 @@ header {
     padding-left: 10px;
   }
   .news-cards {
-    margin-bottom: 10px;
+    padding-bottom: 10px;
+  }
   .news-card {
     flex-basis: 100%;
   }
