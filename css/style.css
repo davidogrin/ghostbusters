@@ -349,10 +349,6 @@ header {
   }
 }
 @media (max-width: 768px) {
-  html, 
-  body {
-    overflow-y: hidden;
-  }
   .container {
     max-width: 560px;
   }
